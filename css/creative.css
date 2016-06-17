@@ -426,3 +426,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.voffset {
+  margin-top: 50px;
+}
+.member-name {
+  line-height: 30px;
+}
